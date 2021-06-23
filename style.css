@@ -1,0 +1,55 @@
+body {
+    background: gray
+}
+
+#conteudo {
+    margin: auto;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    border-radius: 100%;
+    margin-top: 50px;
+    background: rgba(1, 1, 1, 1);
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.452);
+    overflow: hidden;
+}
+
+#conteudo h2 {
+    color: red;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: 200px;
+    font-size: 34px;
+}
+
+#time {
+    margin: auto;
+    margin-top: 230px;
+    font-size: 25px;
+    padding: 1px;
+    border: 1px solid black;
+    width: 200px;
+    background: white;
+    overflow: hidden;
+}
+
+#conteudo button {
+    margin: 12px;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+}
+
+#r {
+    color: red;
+}
+
+#g {
+    color: green;
+}
+
+#b {
+    color: blue;
+}
